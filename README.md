@@ -1,0 +1,2 @@
+In one of my classwork at Altschool in the just concluded semester, we were asked to write a bash script to check if a file exists or not (taking filename as the argument). I wrote (file_verifier.sh) and push to github repository "https://github.com/Darkchild123/Bash_script_Tinyuka-1#" .
+During the study break I wrote another script taking main idea from the classwork and improved it with new features like Better Interactivity, User-Oriented, expanded search to parent directories (/home/).
